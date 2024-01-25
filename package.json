@@ -11,6 +11,7 @@
     "fs": "0.0.1-security",
     "http": "0.0.1-security",
     "path": "^0.12.7",
+    "serve-static": "^1.15.0",
     "vue": "^3.2.45"
   }
 }
